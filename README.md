@@ -21,7 +21,7 @@ Note : even though this plugin was written with Hostapd in mind, it should be po
 
 ### Requirements
 
-This plugin heavily depends on the [https://github.com/Robpol86/libnl](libnl) module to query a netlink socket. You can install it with :
+This plugin heavily depends on the [libnl](https://github.com/Robpol86/libnl) module to query a netlink socket. You can install it with :
 
 ```
 pip install libnl
